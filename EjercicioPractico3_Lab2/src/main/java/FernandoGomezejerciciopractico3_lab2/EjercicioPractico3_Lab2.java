@@ -14,7 +14,7 @@ public class EjercicioPractico3_Lab2 {
         System.out.println("Hada 1, Hierro2, Luchador3, Psiquico4");
         System.out.println("Ingrese el tipo del Atacador");
         int a =entrada.nextInt();
-        System.out.println("Ingrese el tipo del Atacador");
+        System.out.println("Ingrese el tipo del Atacado");
         int b =entrada.nextInt();
         if ((a==1)&&(b==1)){
             System.out.println("Su ataque fue neutral");
